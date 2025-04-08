@@ -136,7 +136,7 @@
         <div class="block2" id="레전드 선수">
         <div class="p1">
         <img src="https://pds.joins.com/news/component/htmlphoto_mmdata/202002/17/629584be-5737-4a5b-9236-9993801f1a6c.jpg" align="right" width="49%" height="150px"> 
-        <img src="https://img4.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202111/04/SPORTSSEOUL/20211104153402161dihc.jpg " align="left" width="49%" height="150px">
+        <img src="https://img7.yna.co.kr/photo/yna/YH/2011/09/14/PYH2011091400150001300_P2.jpg" align="left" width="49%" height="150px">
         "롯데 자이언츠 역사상 가장 위대한 투수 타자 선수에 대해 알고싶다면 밑에 링크들을 클릭"<hr>
         <a href="https://namu.wiki/w/%EC%B5%9C%EB%8F%99%EC%9B%90">위대한 투수 최동원</a>
         <a href="https://namu.wiki/w/%EC%9D%B4%EB%8C%80%ED%98%B8" align="left">위대한 타자 이대호</a>
