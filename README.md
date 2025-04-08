@@ -136,7 +136,7 @@
         <div class="block2" id="레전드 선수">
         <div class="p1">
         <img src="https://pds.joins.com/news/component/htmlphoto_mmdata/202002/17/629584be-5737-4a5b-9236-9993801f1a6c.jpg" align="right" width="49%" height="150px"> 
-        <img src="https://img4.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202111/04/SPORTSSEOUL/20211104153402161dihc.jpg"align="left" width="49%" height="150px">
+        <img src="https://img4.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202111/04/SPORTSSEOUL/20211104153402161dihc.jpg " align="left" width="49%" height="150px">
         "롯데 자이언츠 역사상 가장 위대한 투수 타자 선수에 대해 알고싶다면 밑에 링크들을 클릭"<hr>
         <a href="https://namu.wiki/w/%EC%B5%9C%EB%8F%99%EC%9B%90">위대한 투수 최동원</a>
         <a href="https://namu.wiki/w/%EC%9D%B4%EB%8C%80%ED%98%B8" align="left">위대한 타자 이대호</a>
@@ -146,13 +146,13 @@
 
     <section>
     <legend><strong>구단 소식</strong></legend>
-    <div class="block2" id="구단 소식">
-    <div class="p1">
-    <img src="https://img6.yna.co.kr/photo/yna/YH/2024/05/22/PYH2024052202960001300_P4.jpg" width="100%" height="150px">
+        <div class="block2" id="구단 소식">
+        <div class="p1">
+        <img src="https://img6.yna.co.kr/photo/yna/YH/2024/05/22/PYH2024052202960001300_P4.jpg" width="100%" height="150px">
     "롯데 자이언츠의 각종 소식과 이벤트를 알고싶다면 밑에 링크를 클릭!"<hr>
-    <a href="https://www.giantsclub.com/m/?pcode=849">구단 소식지</a>
-    </div>
-    </div>
+        <a href="https://www.giantsclub.com/m/?pcode=849">구단 소식지</a>
+        </div>
+        </div>
     </section>
 
     <section>
